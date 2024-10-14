@@ -1,0 +1,23 @@
+{
+  "name": "test-polkadot-rpcs",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "prettier": "^3.3.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@polkadot-api/observable-client": "^0.5.9",
+    "@polkadot-api/substrate-client": "^0.2.2",
+    "polkadot-api": "^1.5.1",
+    "rxjs": "^7.8.1"
+  },
+  "prettier": {
+    "printWidth": 80,
+    "semi": false,
+    "trailingComma": "all"
+  }
+}

@@ -1,0 +1,229 @@
+
+
+-------ACALA-------
+☠️ Acala Foundation 1
+☠️ Acala Foundation 0
+☠️ Acala Foundation 3
+✅ Dwellir
+✅ OnFinality
+
+
+-------AJUNA-------
+✅ AjunaNetwork
+✅ IBP1
+✅ IBP2
+✅ OnFinality
+⛔ RadiumBlock
+
+
+-------ASTAR-------
+✅ Dwellir
+✅ Astar
+☠️ Blast
+✅ OnFinality
+⛔ Automata 1RPC
+⏰ RadiumBlock
+
+
+-------AVENTUS-------
+👴 Aventus
+
+
+-------BIFROST-------
+✅ LiebiEU
+✅ IBP1
+✅ IBP2
+✅ Dwellir
+✅ Liebi
+⏰ RadiumBlock
+
+
+-------BITGREEN-------
+✅ Bitgreen
+
+
+-------CENTRIFUGE-------
+✅ Centrifuge
+✅ Dwellir
+✅ OnFinality
+👴 LuckyFriday
+
+
+-------COMPOSABLE-------
+⏰ Composable
+⏰ Dwellir
+
+
+-------CONTINUUM-------
+👴 MNet
+
+
+-------CRUSTPARACHAIN-------
+✅ Crust XYZ
+✅ Crust APP
+✅ Crust CC
+✅ Crust
+
+
+-------DARWINIA-------
+✅ Dwellir
+✅ Dcdao
+✅ Darwinia
+
+
+-------EWX-------
+👴 Energy Web
+
+
+-------FREQUENCY-------
+✅ Dwellir
+✅ Frequency 1
+✅ Frequency 0
+✅ OnFinality
+
+
+-------HASHED-------
+✅ Hashed Systems 1
+
+
+-------HYDRADX-------
+✅ Galactic Council
+✅ IBP1
+✅ Dwellir
+✅ IBP2
+✅ Helikon
+
+
+-------HYPERBRIDGE-------
+✅ IBP1
+✅ IBP2
+✅ BlockOps
+
+
+-------INTEGRITEE-------
+✅ Integritee
+✅ Dwellir
+
+
+-------INTERLAY-------
+👴 Kintsugi Labs
+👴 LuckyFriday
+👴 Dwellir
+
+
+-------INVARCH-------
+👴 Dwellir
+
+
+-------KILT-------
+✅ BOTLabs
+✅ IBP1
+✅ IBP2
+✅ Dwellir
+
+
+-------LAOS-------
+✅ freeverse.io
+✅ Dwellir
+
+
+-------LITENTRY-------
+✅ Dwellir
+✅ Litentry
+
+
+-------LOGION-------
+✅ Logion 1
+
+
+-------MANTA-------
+✅ Manta Network
+
+
+-------MOONBEAM-------
+☠️ Blast
+✅ Moonbeam Foundation
+✅ IBP1
+✅ IBP2
+✅ Dwellir
+✅ UnitedBloc
+✅ OnFinality
+⏰ Allnodes
+⏰ RadiumBlock
+
+
+-------MYTHOS-------
+✅ parity
+
+
+-------NEUROWEB-------
+✅ Dwellir
+✅ TraceLabs
+
+
+-------NODLE-------
+✅ OnFinality
+✅ Dwellir
+
+
+-------PARALLEL-------
+⛔ Dwellir
+👴 Parallel
+
+
+-------PENDULUM-------
+👴 PendulumChain
+
+
+-------PHALA-------
+✅ Dwellir
+✅ Helikon
+✅ Phala
+✅ OnFinality
+⏰ RadiumBlock
+
+
+-------POLIMEC-------
+✅ IBP1
+✅ IBP2
+✅ Polimec Foundation
+✅ Amforc
+✅ Helikon
+
+
+-------POLKADEX-------
+👴 Dwellir
+👴 RadiumBlock
+👴 OnFinality
+
+
+-------ROBONOMICS-------
+👴 Airalab
+
+
+-------SORA-------
+👴 Soramitsu
+
+
+-------SUBSOCIAL-------
+👴 Dappforce
+👴 Dwellir
+
+
+-------T3RN-------
+👴 t3rn
+
+
+-------UNIQUE-------
+✅ Geo Load Balancer
+✅ IBP1
+✅ IBP2
+✅ Dwellir
+✅ Unique Europe
+✅ Unique America
+✅ Unique Asia
+
+
+-------ZEITGEIST-------
+✅ ZeitgeistPM
+✅ OnFinality

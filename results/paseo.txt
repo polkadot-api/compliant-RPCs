@@ -1,0 +1,83 @@
+
+
+-------AJUNA(PASEO)-------
+✅ BajunNetwork
+
+
+-------PASEOAMPLITUDE-------
+✅ PendulumChain
+
+
+-------PASEOAVENTUS-------
+👴 Aventus
+
+
+-------BAJUN(PASEO)-------
+✅ BajunNetwork
+
+
+-------BIFROST(PASEO)-------
+✅ Liebi
+
+
+-------DARWINIA KOI-------
+✅ Darwinia
+
+
+-------FREQUENCY-------
+✅ Amplica Labs
+
+
+-------HYPERBRIDGE-------
+✅ BlockOps
+
+
+-------INTEGRITEE-------
+✅ Integritee
+
+
+-------KILT-------
+✅ BOTLabs
+
+
+-------LAOS-SIGMA-------
+✅ freeverse.io
+
+
+-------MUSE-------
+✅ Parity
+
+
+-------MYRIAD SOCIAL-------
+✅ myriadPaseo
+
+
+-------NISKALA-------
+⛔ Baliola 1
+⛔ Baliola 2
+
+
+-------NODLEPARADIS-------
+✅ OnFinality
+
+
+-------PASEOEWX-------
+👴 Energy Web
+
+
+-------POP NETWORK-------
+✅ R0GUE-RPC2
+✅ R0GUE-RPC3
+✅ R0GUE-RPC1
+
+
+-------REGIONXCOCOS-------
+✅ RegionX
+
+
+-------XCAVATE-------
+✅ Xcavate
+
+
+-------ZEITGEISTBATTERYSTATION-------
+✅ Zeitgeist

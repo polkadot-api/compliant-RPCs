@@ -1,0 +1,173 @@
+
+
+-------ACURAST-------
+☠️ Acurast
+
+
+-------ALTAIR-------
+✅ Centrifuge
+✅ OnFinality
+
+
+-------AMPLITUDE-------
+✅ PendulumChain
+👴 Dwellir
+
+
+-------BAJUN-------
+✅ AjunaNetwork
+✅ OnFinality
+⏰ RadiumBlock
+
+
+-------BASILISK-------
+✅ Basilisk
+✅ Dwellir
+
+
+-------BIFROST-------
+✅ Dwellir
+✅ LiebiUS
+✅ Liebi
+
+
+-------CALAMARI-------
+✅ Manta Network
+
+
+-------CRAB-------
+✅ Dwellir
+✅ Dcdao
+✅ Darwinia
+
+
+-------SHADOW-------
+☠️ Crust XYZ
+☠️ Crust APP
+☠️ Crust CC
+☠️ Crust
+
+
+-------CURIO-------
+✅ Curio
+
+
+-------IPCI-------
+☠️ Airalab
+
+
+-------IMBUE-------
+✅ Imbue Network 0
+
+
+-------INTEGRITEE-------
+✅ Integritee
+✅ OnFinality
+
+
+-------TINKER-------
+✅ Dwellir
+
+
+-------KABOCHA-------
+☠️ JelliedOwl
+
+
+-------KARURA-------
+☠️ Acala Foundation 0
+☠️ Acala Foundation 1
+☠️ Acala Foundation 3
+☠️ Acala Foundation 2
+✅ Dwellir
+✅ OnFinality
+
+
+-------KHALA-------
+✅ Dwellir
+✅ Helikon
+✅ Phala
+✅ OnFinality
+⏰ RadiumBlock
+
+
+-------KINTSUGI-------
+👴 Dwellir
+👴 Kintsugi Labs
+👴 OnFinality
+
+
+-------KREIVO-------
+✅ Virto
+⏰ Kippu
+
+
+-------KREST-------
+👴 Dwellir
+👴 OnFinality
+👴 Krest
+
+
+-------MANGATA-------
+☠️ Mangata Archive
+☠️ Mangata RPC
+
+
+-------MOONRIVER-------
+☠️ Blast
+✅ Moonbeam Foundation
+✅ Dwellir
+✅ UnitedBloc
+✅ OnFinality
+⏰ Allnodes
+⏰ RadiumBlock
+
+
+-------HEIKO-------
+⛔ Parallel
+
+
+-------PICASSO-------
+👴 Dwellir
+👴 Composable
+
+
+-------PIONEER-------
+👴 MetaverseNetwork
+
+
+-------QUARTZ-------
+✅ Unique Europe
+✅ Geo Load Balancer
+✅ Dwellir
+✅ Unique America
+✅ Unique Asia
+
+
+-------ROBONOMICS-------
+⛔ Samsara
+👴 Airalab
+
+
+-------SHIDEN-------
+☠️ Blast
+✅ Dwellir
+✅ OnFinality
+✅ Astar
+⏰ RadiumBlock
+
+
+-------SORA-------
+👴 Soramitsu
+
+
+-------TURING-------
+⏰ Dwellir
+⏰ OAK
+
+
+-------XODE-------
+👴 XodeCommunity
+
+
+-------ZERO-------
+⏰ GameDAO
