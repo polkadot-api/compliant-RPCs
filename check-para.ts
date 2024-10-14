@@ -22,7 +22,7 @@ import {
 import { parsed, withPolkadotSdkCompat } from "polkadot-api/polkadot-sdk-compat"
 import { withLogsRecorder } from "polkadot-api/logs-provider"
 import { withNumericIds } from "./with-numeric-ids"
-import { kusama, paseo, polkadot, type ParachainConfig } from "./chains"
+import { kusama, paseo, polkadot, type ChainConfig } from "./chains"
 import { appendFileSync } from "node:fs"
 
 const enum StateType {
@@ -91,7 +91,7 @@ const checkEndpoint = (input: string) => {
   return result
 }
 
-const checkParachain = (input: ParachainConfig) => {
+const checkParachain = (input: ChainConfig) => {
   return from(Object.entries(input.providers)).pipe(
     mergeMap(([name, uri]) =>
       checkEndpoint(uri).pipe(
@@ -129,7 +129,11 @@ Object.entries({ polkadot, kusama, paseo }).forEach(([relayChain, chain]) => {
               v.result.logs.join("\n"),
             )
           }
-          appendFileSync(file, `${icon} ${v.name}\n`, "utf8")
+          appendFileSync(
+            file,
+            `${icon} ${v.name} (${v.chain.providers[v.name]})\n`,
+            "utf8",
+          )
         }
       },
       error: console.error,

@@ -1,14 +1,111 @@
-export interface ParachainConfig {
-  homepage: string
+export interface ChainConfig {
+  homepage?: string
   info: string
   paraId: number
   providers: Record<string, string>
   text: string
-  ui: any
+  ui?: any
   isUnreachable?: true
 }
 
-export const polkadot: Array<ParachainConfig> = [
+const polkadotRelay: ChainConfig = {
+  info: "polkadot",
+  paraId: -1,
+  providers: {
+    Allnodes: "wss://polkadot-rpc.publicnode.com",
+    Blockops: "wss://polkadot-public-rpc.blockops.network/ws",
+    Dwellir: "wss://polkadot-rpc.dwellir.com",
+    "Dwellir Tunisia": "wss://polkadot-rpc-tn.dwellir.com",
+    IBP1: "wss://rpc.ibp.network/polkadot",
+    IBP2: "wss://polkadot.dotters.network",
+    LuckyFriday: "wss://rpc-polkadot.luckyfriday.io",
+    OnFinality: "wss://polkadot.api.onfinality.io/public-ws",
+    RadiumBlock: "wss://polkadot.public.curie.radiumblock.co/ws",
+    RockX: "wss://rockx-dot.w3node.com/polka-public-dot/ws",
+    Stakeworld: "wss://dot-rpc.stakeworld.io",
+    SubQuery: "wss://polkadot.rpc.subquery.network/public/ws",
+  },
+  text: "Polkadot",
+}
+
+const polkadotSystemChains: Array<ChainConfig> = [
+  {
+    info: "PolkadotAssetHub",
+    paraId: 1000,
+    providers: {
+      Dwellir: "wss://asset-hub-polkadot-rpc.dwellir.com",
+      "Dwellir Tunisia": "wss://statemint-rpc-tn.dwellir.com",
+      IBP1: "wss://sys.ibp.network/asset-hub-polkadot",
+      IBP2: "wss://asset-hub-polkadot.dotters.network",
+      LuckyFriday: "wss://rpc-asset-hub-polkadot.luckyfriday.io",
+      OnFinality: "wss://statemint.api.onfinality.io/public-ws",
+      Parity: "wss://polkadot-asset-hub-rpc.polkadot.io",
+      RadiumBlock: "wss://statemint.public.curie.radiumblock.co/ws",
+      Stakeworld: "wss://dot-rpc.stakeworld.io/assethub",
+    },
+    text: "AssetHub",
+    ui: {
+      color: "#86e62a",
+    },
+  },
+  {
+    info: "polkadotBridgeHub",
+    paraId: 1002,
+    providers: {
+      Dwellir: "wss://bridge-hub-polkadot-rpc.dwellir.com",
+      "Dwellir Tunisia": "wss://polkadot-bridge-hub-rpc-tn.dwellir.com",
+      IBP1: "wss://sys.ibp.network/bridgehub-polkadot",
+      IBP2: "wss://bridge-hub-polkadot.dotters.network",
+      LuckyFriday: "wss://rpc-bridge-hub-polkadot.luckyfriday.io",
+      OnFinality: "wss://bridgehub-polkadot.api.onfinality.io/public-ws",
+      Parity: "wss://polkadot-bridge-hub-rpc.polkadot.io",
+      RadiumBlock: "wss://bridgehub-polkadot.public.curie.radiumblock.co/ws",
+      Stakeworld: "wss://dot-rpc.stakeworld.io/bridgehub",
+    },
+    text: "BridgeHub",
+  },
+  {
+    info: "polkadotCollectives",
+    paraId: 1001,
+    providers: {
+      Dwellir: "wss://collectives-polkadot-rpc.dwellir.com",
+      "Dwellir Tunisia": "wss://polkadot-collectives-rpc-tn.dwellir.com",
+      IBP1: "wss://sys.ibp.network/collectives-polkadot",
+      IBP2: "wss://collectives-polkadot.dotters.network",
+      LuckyFriday: "wss://rpc-collectives-polkadot.luckyfriday.io",
+      OnFinality: "wss://collectives.api.onfinality.io/public-ws",
+      Parity: "wss://polkadot-collectives-rpc.polkadot.io",
+      RadiumBlock: "wss://collectives.public.curie.radiumblock.co/ws",
+      Stakeworld: "wss://dot-rpc.stakeworld.io/collectives",
+    },
+    text: "Collectives",
+  },
+  {
+    info: "polkadotCoretime",
+    paraId: 1005,
+    providers: {
+      IBP2: "wss://coretime-polkadot.dotters.network",
+      Parity: "wss://polkadot-coretime-rpc.polkadot.io",
+    },
+    text: "Coretime",
+  },
+  {
+    info: "polkadotPeople",
+    paraId: 1004,
+    providers: {
+      IBP1: "wss://sys.ibp.network/people-polkadot",
+      IBP2: "wss://people-polkadot.dotters.network",
+      LuckyFriday: "wss://rpc-people-polkadot.luckyfriday.io",
+      Parity: "wss://polkadot-people-rpc.polkadot.io",
+      RadiumBlock: "wss://people-polkadot.public.curie.radiumblock.co/ws",
+    },
+    text: "People",
+  },
+]
+
+export const polkadot: Array<ChainConfig> = [
+  polkadotRelay,
+  ...polkadotSystemChains,
   {
     homepage: "https://acala.network/",
     info: "acala",
@@ -795,7 +892,105 @@ export const polkadot: Array<ParachainConfig> = [
   },
 ]
 
-export const kusama: Array<ParachainConfig> = [
+const kusamaSystemChains: ChainConfig[] = [
+  {
+    info: "KusamaAssetHub",
+    paraId: 1000,
+    providers: {
+      Dwellir: "wss://asset-hub-kusama-rpc.dwellir.com",
+      "Dwellir Tunisia": "wss://statemine-rpc-tn.dwellir.com",
+      IBP1: "wss://sys.ibp.network/statemine",
+      IBP2: "wss://asset-hub-kusama.dotters.network",
+      LuckyFriday: "wss://rpc-asset-hub-kusama.luckyfriday.io",
+      // OnFinality: 'wss://statemine.api.onfinality.io/public-ws',
+      Parity: "wss://kusama-asset-hub-rpc.polkadot.io",
+      RadiumBlock: "wss://statemine.public.curie.radiumblock.co/ws",
+      Stakeworld: "wss://ksm-rpc.stakeworld.io/assethub",
+    },
+    text: "AssetHub",
+  },
+  {
+    info: "kusamaBridgeHub",
+    paraId: 1002,
+    providers: {
+      Dwellir: "wss://bridge-hub-kusama-rpc.dwellir.com",
+      "Dwellir Tunisia": "wss://kusama-bridge-hub-rpc-tn.dwellir.com",
+      IBP1: "wss://sys.ibp.network/bridgehub-kusama",
+      IBP2: "wss://bridge-hub-kusama.dotters.network",
+      LuckyFriday: "wss://rpc-bridge-hub-kusama.luckyfriday.io",
+      // OnFinality: 'wss://bridgehub-kusama.api.onfinality.io/public-ws',
+      Parity: "wss://kusama-bridge-hub-rpc.polkadot.io",
+      RadiumBlock: "wss://bridgehub-kusama.public.curie.radiumblock.co/ws",
+      Stakeworld: "wss://ksm-rpc.stakeworld.io/bridgehub",
+    },
+    text: "BridgeHub",
+  },
+  {
+    info: "kusamaCoretime",
+    paraId: 1005,
+    providers: {
+      Dwellir: "wss://coretime-kusama-rpc.dwellir.com",
+      IBP1: "wss://sys.ibp.network/coretime-kusama",
+      IBP2: "wss://coretime-kusama.dotters.network",
+      LuckyFriday: "wss://rpc-coretime-kusama.luckyfriday.io",
+      Parity: "wss://kusama-coretime-rpc.polkadot.io",
+      Stakeworld: "wss://ksm-rpc.stakeworld.io/coretime",
+    },
+    text: "Coretime",
+  },
+  {
+    homepage: "https://encointer.org/",
+    info: "encointer",
+    paraId: 1001,
+    providers: {
+      Dwellir: "wss://encointer-kusama-rpc.dwellir.com",
+      "Encointer Association": "wss://kusama.api.encointer.org",
+      IBP1: "wss://sys.ibp.network/encointer-kusama",
+      IBP2: "wss://encointer-kusama.dotters.network",
+      // OnFinality: 'wss://encointer.api.onfinality.io/public-ws', // https://github.com/polkadot-js/apps/issues/9986
+      // Stakeworld: 'wss://ksm-rpc.stakeworld.io/encointer'
+    },
+    text: "Encointer Network",
+  },
+  {
+    info: "kusamaPeople",
+    paraId: 1004,
+    providers: {
+      Dwellir: "wss://people-kusama-rpc.dwellir.com",
+      IBP1: "wss://sys.ibp.network/people-kusama",
+      IBP2: "wss://people-kusama.dotters.network",
+      LuckyFriday: "wss://rpc-people-kusama.luckyfriday.io",
+      Parity: "wss://kusama-people-rpc.polkadot.io",
+      Stakeworld: "wss://ksm-rpc.stakeworld.io/people",
+    },
+    text: "People",
+  },
+]
+
+const kusamaRelayChain: ChainConfig = {
+  info: "kusama",
+  paraId: -1,
+  providers: {
+    // 'Geometry Labs': 'wss://kusama.geometry.io/websockets', // https://github.com/polkadot-js/apps/pull/6746
+    // 'Automata 1RPC': 'wss://1rpc.io/ksm',
+    Allnodes: "wss://kusama-rpc.publicnode.com",
+    Dwellir: "wss://kusama-rpc.dwellir.com",
+    "Dwellir Tunisia": "wss://kusama-rpc-tn.dwellir.com",
+    IBP1: "wss://rpc.ibp.network/kusama",
+    IBP2: "wss://kusama.dotters.network",
+    LuckyFriday: "wss://rpc-kusama.luckyfriday.io",
+    OnFinality: "wss://kusama.api.onfinality.io/public-ws",
+    RadiumBlock: "wss://kusama.public.curie.radiumblock.co/ws",
+    RockX: "wss://rockx-ksm.w3node.com/polka-public-ksm/ws",
+    Stakeworld: "wss://ksm-rpc.stakeworld.io",
+    SubQuery: "wss://kusama.rpc.subquery.network/public/ws",
+  },
+  text: "Kusama",
+}
+
+export const kusama: Array<ChainConfig> = [
+  kusamaRelayChain,
+  ...kusamaSystemChains,
   {
     homepage: "https://a.band",
     info: "aband",
@@ -1609,7 +1804,65 @@ export const kusama: Array<ParachainConfig> = [
   },
 ]
 
-export const paseo: Array<ParachainConfig> = [
+const paseoSystemChains: ChainConfig[] = [
+  {
+    info: "PaseoAssetHub",
+    paraId: 1000,
+    providers: {
+      Dwellir: "wss://asset-hub-paseo-rpc.dwellir.com",
+      IBP1: "wss://sys.ibp.network/asset-hub-paseo",
+      IBP2: "wss://asset-hub-paseo.dotters.network",
+      StakeWorld: "wss://pas-rpc.stakeworld.io/assethub",
+      TurboFlakes: "wss://sys.turboflakes.io/asset-hub-paseo",
+    },
+    text: "AssetHub",
+  },
+  {
+    info: "BridgeHub",
+    paraId: 1002,
+    providers: {
+      // IBP1: 'wss://sys.ibp.network/bridge-hub-paseo', https://github.com/polkadot-js/apps/issues/10966
+      IBP2: "wss://bridge-hub-paseo.dotters.network",
+    },
+    text: "BridgeHub",
+  },
+  {
+    info: "Coretime",
+    paraId: 1005,
+    providers: {
+      IBP2: "wss://coretime-paseo.dotters.network",
+      ParaNodes: "wss://paseo-coretime.paranodes.io",
+    },
+    text: "Coretime",
+  },
+  {
+    info: "PaseoPeopleChain",
+    paraId: 1004,
+    providers: {
+      Amforc: "wss://people-paseo.rpc.amforc.com",
+      IBP2: "wss://people-paseo.dotters.network",
+    },
+    text: "People",
+  },
+]
+
+export const paseoRelayChain: ChainConfig = {
+  info: "paseo",
+  paraId: -1,
+  providers: {
+    Amforc: "wss://paseo.rpc.amforc.com",
+    Dwellir: "wss://paseo-rpc.dwellir.com",
+    IBP1: "wss://rpc.ibp.network/paseo",
+    IBP2: "wss://paseo.dotters.network",
+    StakeWorld: "wss://pas-rpc.stakeworld.io",
+    // Zondax: 'wss://api2.zondax.ch/pas/node/rpc' https://github.com/polkadot-js/apps/issues/10957
+  },
+  text: "Paseo",
+}
+
+export const paseo: Array<ChainConfig> = [
+  paseoRelayChain,
+  ...paseoSystemChains,
   {
     homepage: "https://ajuna.io/",
     info: "Ajuna(paseo)",
