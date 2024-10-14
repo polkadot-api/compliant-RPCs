@@ -1,0 +1,4 @@
+1-2024-10-14T12:15:19.821Z->>-{"jsonrpc":"2.0","id":0,"method":"rpc_methods","params":[]}
+1-2024-10-14T12:15:21.146Z-<<-{"jsonrpc":"2.0","error":{"code":-32600,"message":"fail to connect remote"},"id":null}
+1-2024-10-14T12:15:22.351Z-<<-{"jsonrpc":"2.0","error":{"code":-32600,"message":"fail to connect remote"},"id":null}
+1-2024-10-14T12:15:23.596Z-<<-{"jsonrpc":"2.0","error":{"code":-32600,"message":"fail to connect remote"},"id":null}

@@ -125,7 +125,7 @@ Object.entries({ polkadot, kusama, paseo }).forEach(([relayChain, chain]) => {
           const icon = icons[v.result.type]
           if (v.result.type !== StateType.OK) {
             Bun.write(
-              `./results/logs/${relayChain}/${v.chain.info}_${v.name}.logs`,
+              `./results/wire-logs/${relayChain}/${v.chain.info}_${v.name}.logs`,
               v.result.logs.join("\n"),
             )
           }
