@@ -1,16 +1,16 @@
 
 
 -------PASEO-------
-✅ IBP1 (wss://rpc.ibp.network/paseo)
 ✅ StakeWorld (wss://pas-rpc.stakeworld.io)
-✅ Amforc (wss://paseo.rpc.amforc.com)
 ✅ IBP2 (wss://paseo.dotters.network)
+✅ Amforc (wss://paseo.rpc.amforc.com)
 ✅ Dwellir (wss://paseo-rpc.dwellir.com)
+✅ IBP1 (wss://rpc.ibp.network/paseo)
 
 
 -------PASEOASSETHUB-------
-✅ IBP2 (wss://asset-hub-paseo.dotters.network)
 ✅ TurboFlakes (wss://sys.turboflakes.io/asset-hub-paseo)
+✅ IBP2 (wss://asset-hub-paseo.dotters.network)
 ✅ IBP1 (wss://sys.ibp.network/asset-hub-paseo)
 ✅ StakeWorld (wss://pas-rpc.stakeworld.io/assethub)
 ✅ Dwellir (wss://asset-hub-paseo-rpc.dwellir.com)
@@ -26,8 +26,8 @@
 
 
 -------PASEOPEOPLECHAIN-------
-✅ Amforc (wss://people-paseo.rpc.amforc.com)
 ✅ IBP2 (wss://people-paseo.dotters.network)
+✅ Amforc (wss://people-paseo.rpc.amforc.com)
 
 
 -------AJUNA(PASEO)-------
@@ -83,8 +83,8 @@
 
 
 -------NISKALA-------
-⛔ Baliola 1 (wss://mlg1.mandalachain.io)
-⛔ Baliola 2 (wss://mlg2.mandalachain.io)
+✅ Baliola 1 (wss://mlg1.mandalachain.io)
+✅ Baliola 2 (wss://mlg2.mandalachain.io)
 
 
 -------NODLEPARADIS-------
@@ -96,8 +96,8 @@
 
 
 -------POP NETWORK-------
-✅ R0GUE-RPC3 (wss://rpc3.paseo.popnetwork.xyz)
 ✅ R0GUE-RPC2 (wss://rpc2.paseo.popnetwork.xyz)
+✅ R0GUE-RPC3 (wss://rpc3.paseo.popnetwork.xyz)
 ✅ R0GUE-RPC1 (wss://rpc1.paseo.popnetwork.xyz)
 
 
