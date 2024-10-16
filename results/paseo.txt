@@ -1,11 +1,11 @@
 
 
 -------PASEO-------
-✅ IBP2 (wss://paseo.dotters.network)
 ✅ StakeWorld (wss://pas-rpc.stakeworld.io)
-✅ Dwellir (wss://paseo-rpc.dwellir.com)
-✅ Amforc (wss://paseo.rpc.amforc.com)
+✅ IBP2 (wss://paseo.dotters.network)
 ✅ IBP1 (wss://rpc.ibp.network/paseo)
+✅ Amforc (wss://paseo.rpc.amforc.com)
+✅ Dwellir (wss://paseo-rpc.dwellir.com)
 
 
 -------PASEOASSETHUB-------
@@ -26,8 +26,8 @@
 
 
 -------PASEOPEOPLECHAIN-------
-✅ Amforc (wss://people-paseo.rpc.amforc.com)
 ✅ IBP2 (wss://people-paseo.dotters.network)
+✅ Amforc (wss://people-paseo.rpc.amforc.com)
 
 
 -------AJUNA(PASEO)-------
@@ -96,8 +96,8 @@
 
 
 -------POP NETWORK-------
-✅ R0GUE-RPC2 (wss://rpc2.paseo.popnetwork.xyz)
 ✅ R0GUE-RPC3 (wss://rpc3.paseo.popnetwork.xyz)
+✅ R0GUE-RPC2 (wss://rpc2.paseo.popnetwork.xyz)
 ✅ R0GUE-RPC1 (wss://rpc1.paseo.popnetwork.xyz)
 
 

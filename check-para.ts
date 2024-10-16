@@ -38,7 +38,12 @@ const checkEndpoint = (input: string) => {
 
   const daProvider = getWsProvider(input, (e) => {
     if (e.type === WsEvent.CLOSE || e.type === WsEvent.ERROR) {
+      logs.push(
+        e.type === WsEvent.CLOSE ? "connection closed" : "connection error",
+      )
       errors.next()
+    } else if (e.type === WsEvent.CONNECTED) {
+      logs.push("connected")
     }
   })
 
