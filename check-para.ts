@@ -19,9 +19,8 @@ import {
   take,
   timer,
 } from "rxjs"
-import { parsed, withPolkadotSdkCompat } from "polkadot-api/polkadot-sdk-compat"
+import { withPolkadotSdkCompat } from "polkadot-api/polkadot-sdk-compat"
 import { withLogsRecorder } from "polkadot-api/logs-provider"
-import { withNumericIds } from "./with-numeric-ids"
 import { kusama, paseo, polkadot, type ChainConfig } from "./chains"
 import { appendFileSync } from "node:fs"
 
@@ -46,11 +45,9 @@ const checkEndpoint = (input: string) => {
   const client = getObservableClient(
     createClient(
       withPolkadotSdkCompat(
-        parsed(withNumericIds)(
-          withLogsRecorder((log) => {
-            logs.push(log)
-          }, daProvider),
-        ),
+        withLogsRecorder((log) => {
+          logs.push(log)
+        }, daProvider),
       ),
     ),
   )
