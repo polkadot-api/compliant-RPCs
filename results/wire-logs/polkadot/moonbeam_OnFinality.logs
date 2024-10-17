@@ -1,9 +1,4 @@
-1-2024-10-16T13:45:49.768Z->>-{"jsonrpc":"2.0","id":0,"method":"rpc_methods","params":[]}
-connected
-1-2024-10-16T13:45:50.529Z-<<-{"jsonrpc":"2.0","error":{"code":-32029,"message":"Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit"},"id":0}
-1-2024-10-16T13:45:50.730Z->>-{"jsonrpc":"2.0","id":1,"method":"rpc_methods","params":[]}
-1-2024-10-16T13:45:51.252Z-<<-{"jsonrpc":"2.0","error":{"code":-32029,"message":"Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit"},"id":1}
-1-2024-10-16T13:45:51.452Z->>-{"jsonrpc":"2.0","id":2,"method":"rpc_methods","params":[]}
-1-2024-10-16T13:45:52.207Z-<<-{"jsonrpc":"2.0","error":{"code":-32029,"message":"Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit"},"id":2}
-1-2024-10-16T13:45:52.406Z->>-{"jsonrpc":"2.0","id":3,"method":"rpc_methods","params":[]}
-1-2024-10-16T13:45:52.536Z-<<-{"jsonrpc":"2.0","error":{"code":-32029,"message":"Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit"},"id":3}
+1-2024-10-17T11:30:25.873Z->>-{"jsonrpc":"2.0","id":0,"method":"rpc_methods","params":[]}
+connection error
+connection error
+connection error
