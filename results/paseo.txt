@@ -1,18 +1,18 @@
 
 
 -------PASEO-------
+✅ StakeWorld (wss://pas-rpc.stakeworld.io)
+✅ IBP2 (wss://paseo.dotters.network)
 ✅ IBP1 (wss://rpc.ibp.network/paseo)
 ✅ Amforc (wss://paseo.rpc.amforc.com)
 ✅ Dwellir (wss://paseo-rpc.dwellir.com)
-✅ StakeWorld (wss://pas-rpc.stakeworld.io)
-✅ IBP2 (wss://paseo.dotters.network)
 
 
 -------PASEOASSETHUB-------
 ✅ TurboFlakes (wss://sys.turboflakes.io/asset-hub-paseo)
-✅ IBP2 (wss://asset-hub-paseo.dotters.network)
 ✅ IBP1 (wss://sys.ibp.network/asset-hub-paseo)
 ✅ StakeWorld (wss://pas-rpc.stakeworld.io/assethub)
+✅ IBP2 (wss://asset-hub-paseo.dotters.network)
 ✅ Dwellir (wss://asset-hub-paseo-rpc.dwellir.com)
 
 
@@ -26,8 +26,8 @@
 
 
 -------PASEOPEOPLECHAIN-------
-✅ Amforc (wss://people-paseo.rpc.amforc.com)
 ✅ IBP2 (wss://people-paseo.dotters.network)
+✅ Amforc (wss://people-paseo.rpc.amforc.com)
 
 
 -------AJUNA(PASEO)-------
@@ -55,7 +55,7 @@
 
 
 -------FREQUENCY-------
-⛔ Amplica Labs (wss://0.rpc.testnet.amplica.io)
+✅ Amplica Labs (wss://0.rpc.testnet.amplica.io)
 
 
 -------HYPERBRIDGE-------
@@ -96,8 +96,8 @@
 
 
 -------POP NETWORK-------
-✅ R0GUE-RPC2 (wss://rpc2.paseo.popnetwork.xyz)
 ✅ R0GUE-RPC3 (wss://rpc3.paseo.popnetwork.xyz)
+✅ R0GUE-RPC2 (wss://rpc2.paseo.popnetwork.xyz)
 ✅ R0GUE-RPC1 (wss://rpc1.paseo.popnetwork.xyz)
 
 
