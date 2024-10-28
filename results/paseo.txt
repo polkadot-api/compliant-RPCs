@@ -1,19 +1,19 @@
 
 
 -------PASEO-------
-✅ StakeWorld (wss://pas-rpc.stakeworld.io)
-✅ IBP2 (wss://paseo.dotters.network)
 ✅ IBP1 (wss://rpc.ibp.network/paseo)
-✅ Amforc (wss://paseo.rpc.amforc.com)
+✅ IBP2 (wss://paseo.dotters.network)
 ✅ Dwellir (wss://paseo-rpc.dwellir.com)
+✅ StakeWorld (wss://pas-rpc.stakeworld.io)
+✅ Amforc (wss://paseo.rpc.amforc.com)
 
 
 -------PASEOASSETHUB-------
-✅ TurboFlakes (wss://sys.turboflakes.io/asset-hub-paseo)
-✅ IBP1 (wss://sys.ibp.network/asset-hub-paseo)
-✅ StakeWorld (wss://pas-rpc.stakeworld.io/assethub)
 ✅ IBP2 (wss://asset-hub-paseo.dotters.network)
+✅ TurboFlakes (wss://sys.turboflakes.io/asset-hub-paseo)
 ✅ Dwellir (wss://asset-hub-paseo-rpc.dwellir.com)
+✅ StakeWorld (wss://pas-rpc.stakeworld.io/assethub)
+✅ IBP1 (wss://sys.ibp.network/asset-hub-paseo)
 
 
 -------BRIDGEHUB-------
@@ -26,8 +26,8 @@
 
 
 -------PASEOPEOPLECHAIN-------
-✅ IBP2 (wss://people-paseo.dotters.network)
 ✅ Amforc (wss://people-paseo.rpc.amforc.com)
+✅ IBP2 (wss://people-paseo.dotters.network)
 
 
 -------AJUNA(PASEO)-------
@@ -83,8 +83,8 @@
 
 
 -------NISKALA-------
-✅ Baliola 1 (wss://mlg1.mandalachain.io)
 ✅ Baliola 2 (wss://mlg2.mandalachain.io)
+✅ Baliola 1 (wss://mlg1.mandalachain.io)
 
 
 -------NODLEPARADIS-------
@@ -92,12 +92,12 @@
 
 
 -------PASEOEWX-------
-👴 Energy Web (wss://public-rpc.testnet.energywebx.com/)
+☠️ Energy Web (wss://public-rpc.testnet.energywebx.com/)
 
 
 -------POP NETWORK-------
-✅ R0GUE-RPC3 (wss://rpc3.paseo.popnetwork.xyz)
 ✅ R0GUE-RPC2 (wss://rpc2.paseo.popnetwork.xyz)
+✅ R0GUE-RPC3 (wss://rpc3.paseo.popnetwork.xyz)
 ✅ R0GUE-RPC1 (wss://rpc1.paseo.popnetwork.xyz)
 
 
