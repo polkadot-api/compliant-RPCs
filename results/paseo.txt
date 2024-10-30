@@ -111,3 +111,116 @@
 
 -------ZEITGEISTBATTERYSTATION-------
 ✅ Zeitgeist (wss://bsr.zeitgeist.pm)
+
+
+-------PASEO-------
+✅ StakeWorld (wss://pas-rpc.stakeworld.io)
+✅ IBP1 (wss://rpc.ibp.network/paseo)
+✅ Amforc (wss://paseo.rpc.amforc.com)
+✅ Dwellir (wss://paseo-rpc.dwellir.com)
+✅ IBP2 (wss://paseo.dotters.network)
+
+
+-------PASEOASSETHUB-------
+✅ IBP2 (wss://asset-hub-paseo.dotters.network)
+✅ StakeWorld (wss://pas-rpc.stakeworld.io/assethub)
+✅ TurboFlakes (wss://sys.turboflakes.io/asset-hub-paseo)
+✅ IBP1 (wss://sys.ibp.network/asset-hub-paseo)
+✅ Dwellir (wss://asset-hub-paseo-rpc.dwellir.com)
+
+
+-------BRIDGEHUB-------
+✅ IBP2 (wss://bridge-hub-paseo.dotters.network)
+
+
+-------CORETIME-------
+✅ IBP2 (wss://coretime-paseo.dotters.network)
+✅ ParaNodes (wss://paseo-coretime.paranodes.io)
+
+
+-------PASEOPEOPLECHAIN-------
+✅ IBP2 (wss://people-paseo.dotters.network)
+✅ Amforc (wss://people-paseo.rpc.amforc.com)
+
+
+-------AJUNA(PASEO)-------
+✅ BajunNetwork (wss://rpc-paseo.ajuna.network)
+
+
+-------PASEOAMPLITUDE-------
+✅ PendulumChain (wss://rpc-foucoco.pendulumchain.tech)
+
+
+-------PASEOAVENTUS-------
+☠️ Aventus (wss://public-rpc.testnet.aventus.network)
+
+
+-------BAJUN(PASEO)-------
+⛔ BajunNetwork (wss://rpc-paseo.bajun.network)
+
+
+-------BIFROST(PASEO)-------
+✅ Liebi (wss://bifrost-rpc.paseo.liebi.com/ws)
+
+
+-------DARWINIA KOI-------
+✅ Darwinia (wss://koi-rpc.darwinia.network)
+
+
+-------FREQUENCY-------
+✅ Amplica Labs (wss://0.rpc.testnet.amplica.io)
+
+
+-------HYPERBRIDGE-------
+✅ BlockOps (wss://hyperbridge-paseo-rpc.blockops.network)
+
+
+-------INTEGRITEE-------
+✅ Integritee (wss://paseo.api.integritee.network)
+
+
+-------KILT-------
+✅ BOTLabs (wss://peregrine.kilt.io/parachain-public-ws/)
+
+
+-------LAOS-SIGMA-------
+✅ freeverse.io (wss://rpc.laossigma.laosfoundation.io)
+
+
+-------MUSE-------
+✅ Parity (wss://paseo-muse-rpc.polkadot.io)
+
+
+-------MYRIAD SOCIAL-------
+✅ myriadPaseo (wss://ws-rpc.paseo.myriad.social)
+
+
+-------NISKALA-------
+✅ Baliola 1 (wss://mlg1.mandalachain.io)
+✅ Baliola 2 (wss://mlg2.mandalachain.io)
+
+
+-------NODLEPARADIS-------
+✅ OnFinality (wss://node-6957502816543653888.lh.onfinality.io/ws?apikey=09b04494-3139-4b57-a5d1-e1c4c18748ce)
+
+
+-------PASEOEWX-------
+☠️ Energy Web (wss://public-rpc.testnet.energywebx.com/)
+
+
+-------POP NETWORK-------
+✅ R0GUE-RPC2 (wss://rpc2.paseo.popnetwork.xyz)
+✅ R0GUE-RPC3 (wss://rpc3.paseo.popnetwork.xyz)
+✅ R0GUE-RPC1 (wss://rpc1.paseo.popnetwork.xyz)
+
+
+-------REGIONXCOCOS-------
+✅ RegionX (wss://regionx-paseo.regionx.tech)
+
+
+-------XCAVATE-------
+✅ Xcavate (wss://rpc-paseo.xcavate.io:443)
+
+
+-------ZEITGEISTBATTERYSTATION-------
+✅ Zeitgeist (wss://bsr.zeitgeist.pm)
