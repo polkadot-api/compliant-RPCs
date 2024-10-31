@@ -466,3 +466,237 @@
 
 -------ZERO-------
 ⛔ GameDAO (wss://rpc-1.gamedao.net)
+
+
+-------KUSAMA-------
+✅ Allnodes (wss://kusama-rpc.publicnode.com)
+✅ IBP1 (wss://rpc.ibp.network/kusama)
+✅ IBP2 (wss://kusama.dotters.network)
+✅ Stakeworld (wss://ksm-rpc.stakeworld.io)
+✅ Dwellir Tunisia (wss://kusama-rpc-tn.dwellir.com)
+✅ Dwellir (wss://kusama-rpc.dwellir.com)
+✅ SubQuery (wss://kusama.rpc.subquery.network/public/ws)
+✅ LuckyFriday (wss://rpc-kusama.luckyfriday.io)
+✅ OnFinality (wss://kusama.api.onfinality.io/public-ws)
+✅ RockX (wss://rockx-ksm.w3node.com/polka-public-ksm/ws)
+✅ RadiumBlock (wss://kusama.public.curie.radiumblock.co/ws)
+
+
+-------KUSAMAASSETHUB-------
+✅ Parity (wss://kusama-asset-hub-rpc.polkadot.io)
+✅ Dwellir Tunisia (wss://statemine-rpc-tn.dwellir.com)
+✅ IBP2 (wss://asset-hub-kusama.dotters.network)
+✅ Stakeworld (wss://ksm-rpc.stakeworld.io/assethub)
+✅ IBP1 (wss://sys.ibp.network/statemine)
+✅ Dwellir (wss://asset-hub-kusama-rpc.dwellir.com)
+✅ LuckyFriday (wss://rpc-asset-hub-kusama.luckyfriday.io)
+✅ RadiumBlock (wss://statemine.public.curie.radiumblock.co/ws)
+
+
+-------KUSAMABRIDGEHUB-------
+✅ Parity (wss://kusama-bridge-hub-rpc.polkadot.io)
+✅ IBP2 (wss://bridge-hub-kusama.dotters.network)
+✅ Dwellir (wss://bridge-hub-kusama-rpc.dwellir.com)
+✅ Stakeworld (wss://ksm-rpc.stakeworld.io/bridgehub)
+✅ IBP1 (wss://sys.ibp.network/bridgehub-kusama)
+✅ Dwellir Tunisia (wss://kusama-bridge-hub-rpc-tn.dwellir.com)
+✅ LuckyFriday (wss://rpc-bridge-hub-kusama.luckyfriday.io)
+✅ RadiumBlock (wss://bridgehub-kusama.public.curie.radiumblock.co/ws)
+
+
+-------KUSAMACORETIME-------
+✅ Parity (wss://kusama-coretime-rpc.polkadot.io)
+✅ IBP2 (wss://coretime-kusama.dotters.network)
+✅ Stakeworld (wss://ksm-rpc.stakeworld.io/coretime)
+✅ Dwellir (wss://coretime-kusama-rpc.dwellir.com)
+✅ IBP1 (wss://sys.ibp.network/coretime-kusama)
+✅ LuckyFriday (wss://rpc-coretime-kusama.luckyfriday.io)
+
+
+-------ENCOINTER-------
+✅ IBP2 (wss://encointer-kusama.dotters.network)
+✅ Encointer Association (wss://kusama.api.encointer.org)
+✅ Dwellir (wss://encointer-kusama-rpc.dwellir.com)
+✅ IBP1 (wss://sys.ibp.network/encointer-kusama)
+
+
+-------KUSAMAPEOPLE-------
+✅ Parity (wss://kusama-people-rpc.polkadot.io)
+✅ Stakeworld (wss://ksm-rpc.stakeworld.io/people)
+✅ IBP2 (wss://people-kusama.dotters.network)
+✅ IBP1 (wss://sys.ibp.network/people-kusama)
+✅ Dwellir (wss://people-kusama-rpc.dwellir.com)
+✅ LuckyFriday (wss://rpc-people-kusama.luckyfriday.io)
+
+
+-------ACURAST-------
+☠️ Acurast (wss://public-rpc.canary.acurast.com)
+
+
+-------ALTAIR-------
+✅ Centrifuge (wss://fullnode.altair.centrifuge.io)
+✅ OnFinality (wss://altair.api.onfinality.io/public-ws)
+
+
+-------AMPLITUDE-------
+✅ Dwellir (wss://amplitude-rpc.dwellir.com)
+✅ PendulumChain (wss://rpc-amplitude.pendulumchain.tech)
+
+
+-------BAJUN-------
+✅ AjunaNetwork (wss://rpc-parachain.bajun.network)
+✅ RadiumBlock (wss://bajun.public.curie.radiumblock.co/ws)
+✅ OnFinality (wss://bajun.api.onfinality.io/public-ws)
+
+
+-------BASILISK-------
+✅ Basilisk (wss://rpc.basilisk.cloud)
+✅ Dwellir (wss://basilisk-rpc.dwellir.com)
+
+
+-------BIFROST-------
+✅ Dwellir (wss://bifrost-rpc.dwellir.com)
+✅ Liebi (wss://bifrost-rpc.liebi.com/ws)
+✅ LiebiUS (wss://us.bifrost-rpc.liebi.com/ws)
+
+
+-------CALAMARI-------
+✅ Manta Network (wss://calamari.systems)
+
+
+-------CRAB-------
+✅ Dcdao (wss://crab-rpc.dcdao.box)
+✅ Dwellir (wss://darwiniacrab-rpc.dwellir.com)
+✅ Darwinia (wss://crab-rpc.darwinia.network/)
+
+
+-------SHADOW-------
+☠️ Crust CC (wss://rpc-shadow.crustnetwork.cc)
+☠️ Crust APP (wss://rpc-shadow.crustnetwork.app)
+☠️ Crust XYZ (wss://rpc-shadow.crustnetwork.xyz)
+☠️ Crust (wss://rpc-shadow.crust.network/)
+
+
+-------CURIO-------
+✅ Curio (wss://parachain.curioinvest.com/)
+
+
+-------IPCI-------
+☠️ Airalab (wss://ipci.rpc.robonomics.network)
+
+
+-------IMBUE-------
+✅ Imbue Network 0 (wss://kusama.imbuenetwork.com)
+
+
+-------INTEGRITEE-------
+✅ Integritee (wss://kusama.api.integritee.network)
+✅ OnFinality (wss://integritee-kusama.api.onfinality.io/public-ws)
+
+
+-------TINKER-------
+✅ Dwellir (wss://tinkernet-rpc.dwellir.com)
+
+
+-------KABOCHA-------
+☠️ JelliedOwl (wss://kabocha.jelliedowl.net)
+
+
+-------KARURA-------
+☠️ Acala Foundation 0 (wss://karura-rpc-0.aca-api.network)
+☠️ Acala Foundation 3 (wss://karura-rpc-3.aca-api.network/ws)
+☠️ Acala Foundation 1 (wss://karura-rpc-1.aca-api.network)
+☠️ Acala Foundation 2 (wss://karura-rpc-2.aca-api.network/ws)
+✅ Dwellir (wss://karura-rpc.dwellir.com)
+✅ OnFinality (wss://karura.api.onfinality.io/public-ws)
+
+
+-------KHALA-------
+✅ Phala (wss://khala-api.phala.network/ws)
+✅ Dwellir (wss://khala-rpc.dwellir.com)
+✅ Helikon (wss://rpc.helikon.io/khala)
+✅ OnFinality (wss://khala.api.onfinality.io/public-ws)
+✅ RadiumBlock (wss://khala.public.curie.radiumblock.co/ws)
+
+
+-------KINTSUGI-------
+👴 Kintsugi Labs (wss://api-kusama.interlay.io/parachain)
+👴 Dwellir (wss://kintsugi-rpc.dwellir.com)
+👴 OnFinality (wss://kintsugi.api.onfinality.io/public-ws)
+
+
+-------KREIVO-------
+✅ Virto (wss://kreivo.io/)
+⏰ Kippu (wss://kreivo.kippu.rocks/)
+
+
+-------KREST-------
+👴 Krest (wss://wss-krest.peaq.network/)
+👴 Dwellir (wss://krest-rpc.dwellir.com)
+👴 OnFinality (wss://krest.api.onfinality.io/public-ws)
+
+
+-------MANGATA-------
+☠️ Mangata Archive (wss://kusama-archive.mangata.online)
+☠️ Mangata RPC (wss://kusama-rpc.mangata.online)
+
+
+-------MOONRIVER-------
+✅ Moonbeam Foundation (wss://wss.api.moonriver.moonbeam.network)
+☠️ Blast (wss://moonriver.public.blastapi.io)
+✅ Dwellir (wss://moonriver-rpc.dwellir.com)
+✅ UnitedBloc (wss://moonriver.unitedbloc.com)
+✅ OnFinality (wss://moonriver.api.onfinality.io/public-ws)
+✅ RadiumBlock (wss://moonriver.public.curie.radiumblock.co/ws)
+⏰ Allnodes (wss://moonriver-rpc.publicnode.com)
+
+
+-------HEIKO-------
+👴 Parallel (wss://heiko-rpc.parallel.fi)
+
+
+-------PICASSO-------
+👴 Composable (wss://rpc.composablenodes.tech)
+👴 Dwellir (wss://picasso-rpc.dwellir.com)
+
+
+-------PIONEER-------
+👴 MetaverseNetwork (wss://pioneer-rpc-3.bit.country/wss)
+
+
+-------QUARTZ-------
+✅ Geo Load Balancer (wss://ws-quartz.unique.network)
+✅ Dwellir (wss://quartz-rpc.dwellir.com)
+✅ Unique Europe (wss://eu-ws-quartz.unique.network)
+✅ Unique America (wss://us-ws-quartz.unique.network)
+✅ Unique Asia (wss://asia-ws-quartz.unique.network)
+
+
+-------ROBONOMICS-------
+⛔ Samsara (wss://robonomics.0xsamsara.com)
+⏰ Airalab (wss://kusama.rpc.robonomics.network/)
+
+
+-------SHIDEN-------
+✅ Dwellir (wss://shiden-rpc.dwellir.com)
+☠️ Blast (wss://shiden.public.blastapi.io)
+✅ RadiumBlock (wss://shiden.public.curie.radiumblock.co/ws)
+✅ OnFinality (wss://shiden.api.onfinality.io/public-ws)
+✅ Astar (wss://rpc.shiden.astar.network)
+
+
+-------SORA-------
+👴 Soramitsu (wss://ws.parachain-collator-2.c2.sora2.soramitsu.co.jp)
+
+
+-------TURING-------
+⏰ Dwellir (wss://turing-rpc.dwellir.com)
+⏰ OAK (wss://rpc.turing.oak.tech)
+
+
+-------XODE-------
+👴 XodeCommunity (wss://rpcnodea01.xode.net/n7yoxCmcIrCF6VziCcDmYTwL8R03a/rpc)
+
+
+-------ZERO-------
+⛔ GameDAO (wss://rpc-1.gamedao.net)
