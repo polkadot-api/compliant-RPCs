@@ -1,62 +1,62 @@
 
 
 -------KUSAMA-------
-✅ IBP2 (wss://kusama.dotters.network)
 ✅ Allnodes (wss://kusama-rpc.publicnode.com)
-✅ Stakeworld (wss://ksm-rpc.stakeworld.io)
-✅ Dwellir (wss://kusama-rpc.dwellir.com)
-✅ Dwellir Tunisia (wss://kusama-rpc-tn.dwellir.com)
-✅ SubQuery (wss://kusama.rpc.subquery.network/public/ws)
 ✅ IBP1 (wss://rpc.ibp.network/kusama)
-✅ RadiumBlock (wss://kusama.public.curie.radiumblock.co/ws)
+✅ Stakeworld (wss://ksm-rpc.stakeworld.io)
+✅ IBP2 (wss://kusama.dotters.network)
+✅ Dwellir Tunisia (wss://kusama-rpc-tn.dwellir.com)
+✅ Dwellir (wss://kusama-rpc.dwellir.com)
 ✅ LuckyFriday (wss://rpc-kusama.luckyfriday.io)
+☠️ RadiumBlock (wss://kusama.public.curie.radiumblock.co/ws)
+✅ SubQuery (wss://kusama.rpc.subquery.network/public/ws)
 ✅ RockX (wss://rockx-ksm.w3node.com/polka-public-ksm/ws)
 ✅ OnFinality (wss://kusama.api.onfinality.io/public-ws)
 
 
 -------KUSAMAASSETHUB-------
 ✅ Parity (wss://kusama-asset-hub-rpc.polkadot.io)
-✅ Stakeworld (wss://ksm-rpc.stakeworld.io/assethub)
-✅ IBP2 (wss://asset-hub-kusama.dotters.network)
 ✅ IBP1 (wss://sys.ibp.network/statemine)
-✅ Dwellir Tunisia (wss://statemine-rpc-tn.dwellir.com)
+✅ IBP2 (wss://asset-hub-kusama.dotters.network)
+✅ Stakeworld (wss://ksm-rpc.stakeworld.io/assethub)
 ✅ Dwellir (wss://asset-hub-kusama-rpc.dwellir.com)
+✅ Dwellir Tunisia (wss://statemine-rpc-tn.dwellir.com)
 ✅ LuckyFriday (wss://rpc-asset-hub-kusama.luckyfriday.io)
 ✅ RadiumBlock (wss://statemine.public.curie.radiumblock.co/ws)
 
 
 -------KUSAMABRIDGEHUB-------
-✅ Parity (wss://kusama-bridge-hub-rpc.polkadot.io)
 ✅ IBP2 (wss://bridge-hub-kusama.dotters.network)
-✅ IBP1 (wss://sys.ibp.network/bridgehub-kusama)
-✅ Dwellir Tunisia (wss://kusama-bridge-hub-rpc-tn.dwellir.com)
 ✅ Stakeworld (wss://ksm-rpc.stakeworld.io/bridgehub)
+✅ IBP1 (wss://sys.ibp.network/bridgehub-kusama)
+✅ Parity (wss://kusama-bridge-hub-rpc.polkadot.io)
+✅ Dwellir Tunisia (wss://kusama-bridge-hub-rpc-tn.dwellir.com)
 ✅ Dwellir (wss://bridge-hub-kusama-rpc.dwellir.com)
 ✅ LuckyFriday (wss://rpc-bridge-hub-kusama.luckyfriday.io)
 ✅ RadiumBlock (wss://bridgehub-kusama.public.curie.radiumblock.co/ws)
 
 
 -------KUSAMACORETIME-------
-✅ IBP2 (wss://coretime-kusama.dotters.network)
-✅ Stakeworld (wss://ksm-rpc.stakeworld.io/coretime)
 ✅ Parity (wss://kusama-coretime-rpc.polkadot.io)
+✅ IBP2 (wss://coretime-kusama.dotters.network)
 ✅ IBP1 (wss://sys.ibp.network/coretime-kusama)
+✅ Stakeworld (wss://ksm-rpc.stakeworld.io/coretime)
 ✅ Dwellir (wss://coretime-kusama-rpc.dwellir.com)
 ✅ LuckyFriday (wss://rpc-coretime-kusama.luckyfriday.io)
 
 
 -------ENCOINTER-------
 ✅ IBP2 (wss://encointer-kusama.dotters.network)
-✅ Encointer Association (wss://kusama.api.encointer.org)
 ✅ IBP1 (wss://sys.ibp.network/encointer-kusama)
+✅ Encointer Association (wss://kusama.api.encointer.org)
 ✅ Dwellir (wss://encointer-kusama-rpc.dwellir.com)
 
 
 -------KUSAMAPEOPLE-------
-✅ IBP2 (wss://people-kusama.dotters.network)
 ✅ Parity (wss://kusama-people-rpc.polkadot.io)
-✅ IBP1 (wss://sys.ibp.network/people-kusama)
+✅ IBP2 (wss://people-kusama.dotters.network)
 ✅ Stakeworld (wss://ksm-rpc.stakeworld.io/people)
+✅ IBP1 (wss://sys.ibp.network/people-kusama)
 ✅ Dwellir (wss://people-kusama-rpc.dwellir.com)
 ✅ LuckyFriday (wss://rpc-people-kusama.luckyfriday.io)
 
@@ -77,13 +77,13 @@
 
 -------BAJUN-------
 ✅ AjunaNetwork (wss://rpc-parachain.bajun.network)
+✅ RadiumBlock (wss://bajun.public.curie.radiumblock.co/ws)
 ✅ OnFinality (wss://bajun.api.onfinality.io/public-ws)
-☠️ RadiumBlock (wss://bajun.public.curie.radiumblock.co/ws)
 
 
 -------BASILISK-------
-✅ Basilisk (wss://rpc.basilisk.cloud)
 ✅ Dwellir (wss://basilisk-rpc.dwellir.com)
+✅ Basilisk (wss://rpc.basilisk.cloud)
 
 
 -------BIFROST-------
@@ -103,8 +103,8 @@
 
 
 -------SHADOW-------
-☠️ Crust CC (wss://rpc-shadow.crustnetwork.cc)
 ☠️ Crust XYZ (wss://rpc-shadow.crustnetwork.xyz)
+☠️ Crust CC (wss://rpc-shadow.crustnetwork.cc)
 ☠️ Crust APP (wss://rpc-shadow.crustnetwork.app)
 ☠️ Crust (wss://rpc-shadow.crust.network/)
 
@@ -135,9 +135,9 @@
 
 
 -------KARURA-------
+☠️ Acala Foundation 3 (wss://karura-rpc-3.aca-api.network/ws)
 ☠️ Acala Foundation 1 (wss://karura-rpc-1.aca-api.network)
 ☠️ Acala Foundation 0 (wss://karura-rpc-0.aca-api.network)
-☠️ Acala Foundation 3 (wss://karura-rpc-3.aca-api.network/ws)
 ☠️ Acala Foundation 2 (wss://karura-rpc-2.aca-api.network/ws)
 ✅ Dwellir (wss://karura-rpc.dwellir.com)
 ✅ OnFinality (wss://karura.api.onfinality.io/public-ws)
@@ -146,15 +146,15 @@
 -------KHALA-------
 ✅ Dwellir (wss://khala-rpc.dwellir.com)
 ✅ Helikon (wss://rpc.helikon.io/khala)
-☠️ RadiumBlock (wss://khala.public.curie.radiumblock.co/ws)
+✅ Phala (wss://khala-api.phala.network/ws)
+✅ RadiumBlock (wss://khala.public.curie.radiumblock.co/ws)
 ✅ OnFinality (wss://khala.api.onfinality.io/public-ws)
-⛔ Phala (wss://khala-api.phala.network/ws)
 
 
 -------KINTSUGI-------
-👴 OnFinality (wss://kintsugi.api.onfinality.io/public-ws)
-👴 Kintsugi Labs (wss://api-kusama.interlay.io/parachain)
 👴 Dwellir (wss://kintsugi-rpc.dwellir.com)
+👴 Kintsugi Labs (wss://api-kusama.interlay.io/parachain)
+👴 OnFinality (wss://kintsugi.api.onfinality.io/public-ws)
 
 
 -------KREIVO-------
@@ -163,9 +163,9 @@
 
 
 -------KREST-------
-👴 Dwellir (wss://krest-rpc.dwellir.com)
 👴 Krest (wss://wss-krest.peaq.network/)
 👴 OnFinality (wss://krest.api.onfinality.io/public-ws)
+👴 Dwellir (wss://krest-rpc.dwellir.com)
 
 
 -------MANGATA-------
@@ -174,11 +174,11 @@
 
 
 -------MOONRIVER-------
-☠️ RadiumBlock (wss://moonriver.public.curie.radiumblock.co/ws)
 ☠️ Blast (wss://moonriver.public.blastapi.io)
 ✅ Moonbeam Foundation (wss://wss.api.moonriver.moonbeam.network)
 ✅ Dwellir (wss://moonriver-rpc.dwellir.com)
 ✅ UnitedBloc (wss://moonriver.unitedbloc.com)
+✅ RadiumBlock (wss://moonriver.public.curie.radiumblock.co/ws)
 ✅ OnFinality (wss://moonriver.api.onfinality.io/public-ws)
 ⏰ Allnodes (wss://moonriver-rpc.publicnode.com)
 
@@ -197,8 +197,8 @@
 
 
 -------QUARTZ-------
-✅ Geo Load Balancer (wss://ws-quartz.unique.network)
 ✅ Unique Europe (wss://eu-ws-quartz.unique.network)
+✅ Geo Load Balancer (wss://ws-quartz.unique.network)
 ✅ Dwellir (wss://quartz-rpc.dwellir.com)
 ✅ Unique America (wss://us-ws-quartz.unique.network)
 ✅ Unique Asia (wss://asia-ws-quartz.unique.network)
@@ -210,10 +210,10 @@
 
 
 -------SHIDEN-------
+☠️ Blast (wss://shiden.public.blastapi.io)
 ✅ Astar (wss://rpc.shiden.astar.network)
 ✅ Dwellir (wss://shiden-rpc.dwellir.com)
 ✅ RadiumBlock (wss://shiden.public.curie.radiumblock.co/ws)
-☠️ Blast (wss://shiden.public.blastapi.io)
 ✅ OnFinality (wss://shiden.api.onfinality.io/public-ws)
 
 
@@ -222,8 +222,8 @@
 
 
 -------TURING-------
-👴 Dwellir (wss://turing-rpc.dwellir.com)
 👴 OAK (wss://rpc.turing.oak.tech)
+👴 Dwellir (wss://turing-rpc.dwellir.com)
 
 
 -------XODE-------

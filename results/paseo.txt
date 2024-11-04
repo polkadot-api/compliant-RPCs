@@ -2,16 +2,16 @@
 
 -------PASEO-------
 ✅ IBP2 (wss://paseo.dotters.network)
-✅ Amforc (wss://paseo.rpc.amforc.com)
-✅ Dwellir (wss://paseo-rpc.dwellir.com)
 ✅ IBP1 (wss://rpc.ibp.network/paseo)
+✅ Amforc (wss://paseo.rpc.amforc.com)
 ✅ StakeWorld (wss://pas-rpc.stakeworld.io)
+✅ Dwellir (wss://paseo-rpc.dwellir.com)
 
 
 -------PASEOASSETHUB-------
 ✅ TurboFlakes (wss://sys.turboflakes.io/asset-hub-paseo)
-✅ IBP2 (wss://asset-hub-paseo.dotters.network)
 ✅ IBP1 (wss://sys.ibp.network/asset-hub-paseo)
+✅ IBP2 (wss://asset-hub-paseo.dotters.network)
 ✅ StakeWorld (wss://pas-rpc.stakeworld.io/assethub)
 ✅ Dwellir (wss://asset-hub-paseo-rpc.dwellir.com)
 
@@ -96,13 +96,13 @@
 
 
 -------POP NETWORK-------
-✅ R0GUE-RPC2 (wss://rpc2.paseo.popnetwork.xyz)
 ✅ R0GUE-RPC3 (wss://rpc3.paseo.popnetwork.xyz)
+✅ R0GUE-RPC2 (wss://rpc2.paseo.popnetwork.xyz)
 ✅ R0GUE-RPC1 (wss://rpc1.paseo.popnetwork.xyz)
 
 
 -------REGIONXCOCOS-------
-✅ RegionX (wss://regionx-paseo.regionx.tech)
+⛔ RegionX (wss://regionx-paseo.regionx.tech)
 
 
 -------XCAVATE-------
