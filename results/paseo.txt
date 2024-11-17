@@ -2,18 +2,18 @@
 
 -------PASEO-------
 ✅ StakeWorld (wss://pas-rpc.stakeworld.io)
-✅ Amforc (wss://paseo.rpc.amforc.com)
+✅ IBP2 (wss://paseo.dotters.network)
 ✅ Dwellir (wss://paseo-rpc.dwellir.com)
 ✅ IBP1 (wss://rpc.ibp.network/paseo)
-✅ IBP2 (wss://paseo.dotters.network)
+✅ Amforc (wss://paseo.rpc.amforc.com)
 
 
 -------PASEOASSETHUB-------
-✅ IBP1 (wss://sys.ibp.network/asset-hub-paseo)
-✅ IBP2 (wss://asset-hub-paseo.dotters.network)
-✅ StakeWorld (wss://pas-rpc.stakeworld.io/assethub)
 ✅ TurboFlakes (wss://sys.turboflakes.io/asset-hub-paseo)
+✅ StakeWorld (wss://pas-rpc.stakeworld.io/assethub)
+✅ IBP2 (wss://asset-hub-paseo.dotters.network)
 ✅ Dwellir (wss://asset-hub-paseo-rpc.dwellir.com)
+✅ IBP1 (wss://sys.ibp.network/asset-hub-paseo)
 
 
 -------BRIDGEHUB-------
