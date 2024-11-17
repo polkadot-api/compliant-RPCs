@@ -10,9 +10,9 @@
     "typescript": "^5.6.3"
   },
   "dependencies": {
-    "@polkadot-api/observable-client": "^0.5.14",
-    "@polkadot-api/substrate-client": "^0.2.2",
-    "polkadot-api": "1.7.3",
+    "@polkadot-api/observable-client": "^0.6.2",
+    "@polkadot-api/substrate-client": "^0.3.0",
+    "polkadot-api": "1.7.4",
     "rxjs": "^7.8.1"
   },
   "prettier": {
