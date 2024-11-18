@@ -4,15 +4,15 @@
 ✅ Blockops (wss://polkadot-public-rpc.blockops.network/ws)
 ✅ Allnodes (wss://polkadot-rpc.publicnode.com)
 ✅ Stakeworld (wss://dot-rpc.stakeworld.io)
-✅ LuckyFriday (wss://rpc-polkadot.luckyfriday.io)
-✅ IBP1 (wss://rpc.ibp.network/polkadot)
-✅ RockX (wss://rockx-dot.w3node.com/polka-public-dot/ws)
 ✅ IBP2 (wss://polkadot.dotters.network)
-✅ SubQuery (wss://polkadot.rpc.subquery.network/public/ws)
-✅ RadiumBlock (wss://polkadot.public.curie.radiumblock.co/ws)
+✅ IBP1 (wss://rpc.ibp.network/polkadot)
 ✅ Dwellir Tunisia (wss://polkadot-rpc-tn.dwellir.com)
-✅ Dwellir (wss://polkadot-rpc.dwellir.com)
+✅ SubQuery (wss://polkadot.rpc.subquery.network/public/ws)
 ✅ OnFinality (wss://polkadot.api.onfinality.io/public-ws)
+✅ RadiumBlock (wss://polkadot.public.curie.radiumblock.co/ws)
+✅ Dwellir (wss://polkadot-rpc.dwellir.com)
+✅ RockX (wss://rockx-dot.w3node.com/polka-public-dot/ws)
+✅ LuckyFriday (wss://rpc-polkadot.luckyfriday.io)
 
 
 -------POLKADOTASSETHUB-------
@@ -21,28 +21,28 @@
 ✅ IBP1 (wss://sys.ibp.network/asset-hub-polkadot)
 ✅ Dwellir (wss://asset-hub-polkadot-rpc.dwellir.com)
 ✅ IBP2 (wss://asset-hub-polkadot.dotters.network)
-✅ LuckyFriday (wss://rpc-asset-hub-polkadot.luckyfriday.io)
 ✅ Dwellir Tunisia (wss://statemint-rpc-tn.dwellir.com)
+✅ LuckyFriday (wss://rpc-asset-hub-polkadot.luckyfriday.io)
 ✅ RadiumBlock (wss://statemint.public.curie.radiumblock.co/ws)
 ✅ OnFinality (wss://statemint.api.onfinality.io/public-ws)
 
 
 -------POLKADOTBRIDGEHUB-------
 ✅ Parity (wss://polkadot-bridge-hub-rpc.polkadot.io)
-✅ Stakeworld (wss://dot-rpc.stakeworld.io/bridgehub)
 ✅ IBP2 (wss://bridge-hub-polkadot.dotters.network)
+✅ Stakeworld (wss://dot-rpc.stakeworld.io/bridgehub)
 ✅ IBP1 (wss://sys.ibp.network/bridgehub-polkadot)
-✅ LuckyFriday (wss://rpc-bridge-hub-polkadot.luckyfriday.io)
-✅ RadiumBlock (wss://bridgehub-polkadot.public.curie.radiumblock.co/ws)
 ✅ Dwellir (wss://bridge-hub-polkadot-rpc.dwellir.com)
 ✅ Dwellir Tunisia (wss://polkadot-bridge-hub-rpc-tn.dwellir.com)
+✅ LuckyFriday (wss://rpc-bridge-hub-polkadot.luckyfriday.io)
+✅ RadiumBlock (wss://bridgehub-polkadot.public.curie.radiumblock.co/ws)
 ✅ OnFinality (wss://bridgehub-polkadot.api.onfinality.io/public-ws)
 
 
 -------POLKADOTCOLLECTIVES-------
 ✅ Parity (wss://polkadot-collectives-rpc.polkadot.io)
-✅ Stakeworld (wss://dot-rpc.stakeworld.io/collectives)
 ✅ IBP2 (wss://collectives-polkadot.dotters.network)
+✅ Stakeworld (wss://dot-rpc.stakeworld.io/collectives)
 ✅ IBP1 (wss://sys.ibp.network/collectives-polkadot)
 ✅ Dwellir (wss://collectives-polkadot-rpc.dwellir.com)
 ✅ Dwellir Tunisia (wss://polkadot-collectives-rpc-tn.dwellir.com)
@@ -52,40 +52,40 @@
 
 
 -------POLKADOTCORETIME-------
-✅ IBP2 (wss://coretime-polkadot.dotters.network)
 ✅ Parity (wss://polkadot-coretime-rpc.polkadot.io)
+✅ IBP2 (wss://coretime-polkadot.dotters.network)
 
 
 -------POLKADOTPEOPLE-------
 ✅ Parity (wss://polkadot-people-rpc.polkadot.io)
-✅ IBP1 (wss://sys.ibp.network/people-polkadot)
 ✅ IBP2 (wss://people-polkadot.dotters.network)
+✅ IBP1 (wss://sys.ibp.network/people-polkadot)
 ✅ LuckyFriday (wss://rpc-people-polkadot.luckyfriday.io)
-⏰ RadiumBlock (wss://people-polkadot.public.curie.radiumblock.co/ws)
+✅ RadiumBlock (wss://people-polkadot.public.curie.radiumblock.co/ws)
 
 
 -------ACALA-------
-☠️ Acala Foundation 0 (wss://acala-rpc-0.aca-api.network)
-☠️ Acala Foundation 3 (wss://acala-rpc-3.aca-api.network/ws)
 ☠️ Acala Foundation 1 (wss://acala-rpc-1.aca-api.network)
+☠️ Acala Foundation 3 (wss://acala-rpc-3.aca-api.network/ws)
+☠️ Acala Foundation 0 (wss://acala-rpc-0.aca-api.network)
 ✅ Dwellir (wss://acala-rpc.dwellir.com)
 ✅ OnFinality (wss://acala-polkadot.api.onfinality.io/public-ws)
 
 
 -------AJUNA-------
-✅ IBP1 (wss://ajuna.ibp.network)
 ✅ AjunaNetwork (wss://rpc-para.ajuna.network)
+✅ IBP1 (wss://ajuna.ibp.network)
 ✅ IBP2 (wss://ajuna.dotters.network)
-⛔ RadiumBlock (wss://ajuna.public.curie.radiumblock.co/ws)
 ✅ OnFinality (wss://ajuna.api.onfinality.io/public-ws)
+⛔ RadiumBlock (wss://ajuna.public.curie.radiumblock.co/ws)
 
 
 -------ASTAR-------
-⛔ Blast (wss://astar.public.blastapi.io)
-✅ RadiumBlock (wss://astar.public.curie.radiumblock.co/ws)
 ✅ Dwellir (wss://astar-rpc.dwellir.com)
-✅ OnFinality (wss://astar.api.onfinality.io/public-ws)
+✅ RadiumBlock (wss://astar.public.curie.radiumblock.co/ws)
+✅ Blast (wss://astar.public.blastapi.io)
 ✅ Astar (wss://rpc.astar.network)
+✅ OnFinality (wss://astar.api.onfinality.io/public-ws)
 ⛔ Automata 1RPC (wss://1rpc.io/astr)
 
 
@@ -95,8 +95,8 @@
 
 -------BIFROST-------
 ✅ LiebiEU (wss://eu.bifrost-polkadot-rpc.liebi.com/ws)
-✅ IBP2 (wss://bifrost-polkadot.dotters.network)
 ✅ IBP1 (wss://bifrost-polkadot.ibp.network)
+✅ IBP2 (wss://bifrost-polkadot.dotters.network)
 ✅ Dwellir (wss://bifrost-polkadot-rpc.dwellir.com)
 ✅ RadiumBlock (wss://bifrost.public.curie.radiumblock.co/ws)
 ✅ Liebi (wss://hk.p.bifrost-rpc.liebi.com/ws)
@@ -107,9 +107,9 @@
 
 
 -------CENTRIFUGE-------
-✅ Centrifuge (wss://fullnode.centrifuge.io)
 ✅ Dwellir (wss://centrifuge-rpc.dwellir.com)
 ✅ LuckyFriday (wss://rpc-centrifuge.luckyfriday.io)
+✅ Centrifuge (wss://fullnode.centrifuge.io)
 ✅ OnFinality (wss://centrifuge-parachain.api.onfinality.io/public-ws)
 
 
@@ -123,16 +123,16 @@
 
 
 -------CRUSTPARACHAIN-------
-✅ Crust APP (wss://crust-parachain.crustnetwork.app)
-✅ Crust CC (wss://crust-parachain.crustnetwork.cc)
 ✅ Crust (wss://crust-parachain.crustapps.net)
+✅ Crust CC (wss://crust-parachain.crustnetwork.cc)
+✅ Crust APP (wss://crust-parachain.crustnetwork.app)
 ✅ Crust XYZ (wss://crust-parachain.crustnetwork.xyz)
 
 
 -------DARWINIA-------
+✅ Dcdao (wss://darwinia-rpc.dcdao.box)
 ✅ Dwellir (wss://darwinia-rpc.dwellir.com)
 ✅ Darwinia (wss://rpc.darwinia.network)
-⏰ Dcdao (wss://darwinia-rpc.dcdao.box)
 
 
 -------EWX-------
@@ -141,8 +141,8 @@
 
 -------FREQUENCY-------
 ✅ Dwellir (wss://frequency-rpc.dwellir.com)
-✅ Frequency 0 (wss://0.rpc.frequency.xyz)
 ✅ Frequency 1 (wss://1.rpc.frequency.xyz)
+✅ Frequency 0 (wss://0.rpc.frequency.xyz)
 ✅ OnFinality (wss://frequency-polkadot.api.onfinality.io/public-ws)
 
 
@@ -151,17 +151,17 @@
 
 
 -------HYDRADX-------
-✅ IBP1 (wss://hydradx.paras.ibp.network)
-✅ IBP2 (wss://hydration.dotters.network)
-✅ Dwellir (wss://hydradx-rpc.dwellir.com)
 ✅ Galactic Council (wss://rpc.hydradx.cloud)
-⏰ Helikon (wss://rpc.helikon.io/hydradx)
+✅ IBP2 (wss://hydration.dotters.network)
+✅ IBP1 (wss://hydradx.paras.ibp.network)
+⛔ Dwellir (wss://hydradx-rpc.dwellir.com)
+✅ Helikon (wss://rpc.helikon.io/hydradx)
 
 
 -------HYPERBRIDGE-------
 ✅ BlockOps (wss://hyperbridge-nexus-rpc.blockops.network)
-✅ IBP2 (wss://nexus.dotters.network)
 ✅ IBP1 (wss://nexus.ibp.network)
+✅ IBP2 (wss://nexus.dotters.network)
 
 
 -------INTEGRITEE-------
@@ -171,8 +171,8 @@
 
 -------INTERLAY-------
 👴 Kintsugi Labs (wss://api.interlay.io/parachain)
-👴 Dwellir (wss://interlay-rpc.dwellir.com)
 👴 LuckyFriday (wss://rpc-interlay.luckyfriday.io/)
+👴 Dwellir (wss://interlay-rpc.dwellir.com)
 
 
 -------INVARCH-------
@@ -180,10 +180,10 @@
 
 
 -------KILT-------
-✅ BOTLabs (wss://spiritnet.kilt.io/)
-✅ IBP2 (wss://kilt.dotters.network)
 ✅ IBP1 (wss://kilt.ibp.network)
+✅ BOTLabs (wss://spiritnet.kilt.io/)
 ✅ Dwellir (wss://kilt-rpc.dwellir.com)
+✅ IBP2 (wss://kilt.dotters.network)
 
 
 -------LAOS-------
@@ -205,11 +205,11 @@
 
 
 -------MOONBEAM-------
-✅ Moonbeam Foundation (wss://wss.api.moonbeam.network)
-⛔ Blast (wss://moonbeam.public.blastapi.io)
+✅ Blast (wss://moonbeam.public.blastapi.io)
 ✅ RadiumBlock (wss://moonbeam.public.curie.radiumblock.co/ws)
-✅ IBP1 (wss://moonbeam.ibp.network)
+✅ Moonbeam Foundation (wss://wss.api.moonbeam.network)
 ✅ IBP2 (wss://moonbeam.dotters.network)
+✅ IBP1 (wss://moonbeam.ibp.network)
 ✅ Dwellir (wss://moonbeam-rpc.dwellir.com)
 ✅ UnitedBloc (wss://moonbeam.unitedbloc.com)
 ✅ OnFinality (wss://moonbeam.api.onfinality.io/public-ws)
@@ -221,18 +221,18 @@
 
 
 -------NEUROWEB-------
-✅ TraceLabs (wss://parachain-rpc.origin-trail.network)
 ✅ Dwellir (wss://neuroweb-rpc.dwellir.com)
+✅ TraceLabs (wss://parachain-rpc.origin-trail.network)
 
 
 -------NODLE-------
 ✅ OnFinality (wss://nodle-parachain.api.onfinality.io/public-ws)
-✅ Dwellir (wss://nodle-rpc.dwellir.com)
+⛔ Dwellir (wss://nodle-rpc.dwellir.com)
 
 
 -------PARALLEL-------
 ⛔ Dwellir (wss://parallel-rpc.dwellir.com)
-👴 Parallel (wss://polkadot-parallel-rpc.parallel.fi)
+⛔ Parallel (wss://polkadot-parallel-rpc.parallel.fi)
 
 
 -------PENDULUM-------
@@ -240,29 +240,29 @@
 
 
 -------PHALA-------
-✅ Helikon (wss://rpc.helikon.io/phala)
 ✅ Dwellir (wss://phala-rpc.dwellir.com)
+✅ Helikon (wss://rpc.helikon.io/phala)
 ✅ RadiumBlock (wss://phala.public.curie.radiumblock.co/ws)
 ✅ OnFinality (wss://phala.api.onfinality.io/public-ws)
-⛔ Phala (wss://api.phala.network/ws)
+✅ Phala (wss://api.phala.network/ws)
 
 
 -------POLIMEC-------
-✅ Polimec Foundation (wss://rpc.polimec.org)
 ✅ Amforc (wss://polimec.rpc.amforc.com)
-✅ IBP1 (wss://polimec.ibp.network)
 ✅ IBP2 (wss://polimec.dotters.network)
+✅ IBP1 (wss://polimec.ibp.network)
+✅ Polimec Foundation (wss://rpc.polimec.org)
 ✅ Helikon (wss://rpc.helikon.io/polimec)
 
 
 -------POLKADEX-------
 👴 Dwellir (wss://polkadex-parachain-rpc.dwellir.com)
-👴 RadiumBlock (wss://polkadex-parachain.public.curie.radiumblock.co/ws)
 👴 OnFinality (wss://polkadex-parachain.api.onfinality.io/public-ws)
+👴 RadiumBlock (wss://polkadex-parachain.public.curie.radiumblock.co/ws)
 
 
 -------ROBONOMICS-------
-👴 Airalab (wss://polkadot.rpc.robonomics.network/)
+⏰ Airalab (wss://polkadot.rpc.robonomics.network/)
 
 
 -------SORA-------
@@ -283,11 +283,11 @@
 ✅ Geo Load Balancer (wss://ws.unique.network)
 ✅ IBP2 (wss://unique.dotters.network)
 ✅ Dwellir (wss://unique-rpc.dwellir.com)
-✅ Unique America (wss://us-ws.unique.network)
 ✅ Unique Europe (wss://eu-ws.unique.network)
+✅ Unique America (wss://us-ws.unique.network)
 ✅ Unique Asia (wss://asia-ws.unique.network)
 
 
 -------ZEITGEIST-------
 ✅ OnFinality (wss://zeitgeist.api.onfinality.io/public-ws)
-⛔ ZeitgeistPM (wss://main.rpc.zeitgeist.pm/ws)
+✅ ZeitgeistPM (wss://main.rpc.zeitgeist.pm/ws)

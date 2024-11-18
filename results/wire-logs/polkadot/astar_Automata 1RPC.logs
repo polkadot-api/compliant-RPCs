@@ -1,10 +1,10 @@
-1-2024-11-17T20:45:51.741Z->>-{"jsonrpc":"2.0","id":0,"method":"rpc_methods","params":[]}
+1-2024-11-18T20:35:10.430Z->>-{"jsonrpc":"2.0","id":0,"method":"rpc_methods","params":[]}
 connected
-1-2024-11-17T20:45:52.960Z-<<-{"jsonrpc":"2.0","error":{"code":-32600,"message":"fail to connect remote"},"id":null}
+1-2024-11-18T20:35:11.698Z-<<-{"jsonrpc":"2.0","error":{"code":-32600,"message":"fail to connect remote"},"id":null}
 connection closed
 connected
-1-2024-11-17T20:45:54.151Z-<<-{"jsonrpc":"2.0","error":{"code":-32600,"message":"fail to connect remote"},"id":null}
+1-2024-11-18T20:35:12.935Z-<<-{"jsonrpc":"2.0","error":{"code":-32600,"message":"fail to connect remote"},"id":null}
 connection closed
 connected
-1-2024-11-17T20:45:55.381Z-<<-{"jsonrpc":"2.0","error":{"code":-32600,"message":"fail to connect remote"},"id":null}
+1-2024-11-18T20:35:14.136Z-<<-{"jsonrpc":"2.0","error":{"code":-32600,"message":"fail to connect remote"},"id":null}
 connection closed
