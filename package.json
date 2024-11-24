@@ -3,16 +3,16 @@
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
-    "@types/bun": "latest",
+    "@types/bun": "^1.1.13",
     "prettier": "^3.3.3"
   },
   "peerDependencies": {
-    "typescript": "^5.6.3"
+    "typescript": "^5.7.2"
   },
   "dependencies": {
-    "@polkadot-api/observable-client": "^0.6.2",
+    "@polkadot-api/observable-client": "^0.6.3",
     "@polkadot-api/substrate-client": "^0.3.0",
-    "polkadot-api": "1.7.5",
+    "polkadot-api": "1.7.7",
     "rxjs": "^7.8.1"
   },
   "prettier": {
